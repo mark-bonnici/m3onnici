@@ -2,36 +2,15 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+This is my personal piece of internet space which I will be using as a blog. Most of the articles here will be about topics I meet during my profession such as:
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+* Project management
+* Front-end technologies
+* Product design
+* Game design
 
-### Standard features:
+Remember that these articles are written from my narrow point of view. Instead of getting offended I would like to get to know your point of view.
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* **PWA** (manifest.json, offline support, favicons)
-* Google **Analytics**
-* **Favicons** generator (node script)
-* **Material UI** (@next)
+I would be sharing my opinions here with the aim to spark conversations about these topics and hopefully we can learn a thing or two from each other’s experiences.
 
-### Advanced features:
-
-* Easy customizable base **styles** via `theme` object (fonts, colors, sizes)
-* **Components** lazy loading (social sharing, comments)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Custom webpack `CommonsChunkPlugin` settings
-* Webpack `BundleAnalyzerPlugin`
-* Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+//Mark
