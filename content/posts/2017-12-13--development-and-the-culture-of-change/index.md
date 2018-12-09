@@ -1,7 +1,7 @@
 ---
-title: You only live once
-subTitle: But if you do it right, once is enough
-category: "sayings"
+title: Development and the culture of change
+subTitle: in a fast moving industry
+category: "managment"
 cover: photo-1456518563096-0ff5ee08204e-cover.jpg
 ---
 

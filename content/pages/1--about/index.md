@@ -2,15 +2,14 @@
 title: About
 ---
 
-This is my personal piece of internet space which I will be using as a blog. Most of the articles here will be about topics I meet during my profession such as:
+My name is __Mark Bonnici__ and I have worked on web projects for most of my adult life. I have more than 10 years experience in the tech industry, been part of several development teams and delivered projects of all forms and sizes. 
 
-* Project management
-* Front-end technologies
-* Product design
-* Game design
+I get easily excited about a number of topics; from logo design, to front-end development to project management and much, much more. Some years ago, I discovered that writing down my thoughts helped me remember what I learned from different stages in my career. 
 
-Remember that these articles are written from my narrow point of view. Instead of getting offended I would like to get to know your point of view.
+I started jotting down everything I deemed worth remembering and once in a while I re-visit the notes to see if what I discovered years ago is still relevant today. I will be sharing such notes (in the form of short articles) on this blog site to share my view on a number of topics.
 
-I would be sharing my opinions here with the aim to spark conversations about these topics and hopefully we can learn a thing or two from each other’s experiences.
+Hope you, the visitor, can take something back from this. 
+
+_Disclaimer: English is not my mother language. Do not expect to read amazing pieces of literature here. Hopefully my horrendous way of writing will not get in the way of you getting the gist of the articles :]_
 
 //Mark
